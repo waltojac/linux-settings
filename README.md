@@ -1,2 +1,2 @@
-# linuxSettings
-Few setting files for linux
+# Linux Settings
+Few setting files for linux (.bashrc and .vimrc)
